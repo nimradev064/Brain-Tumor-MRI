@@ -23,7 +23,7 @@ A Python environment with [**PyTorch**](https://pytorch.org/get-started/locally/
 You can use the code in this repository in different ways:
 
 1. Train and detect on this **Google Colaboratory** environment [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T8QWGy9V8gpll-veGo_W9fMPVrvZB2dv?usp=sharing) (TIP: if you select the runtime with GPU, training process will be faster).
-2. Train and detect locally by cloning the repository and running this **Jupyter Notebook** file [Brain_Tumor_Detector.ipynb](https://colab.research.google.com/drive/1T8QWGy9V8gpll-veGo_W9fMPVrvZB2dv?usp=sharing) (training time will be determined by your hardware capacity).
+2. Train and detect locally by cloning the repository and running this **Jupyter Notebook** file [Brain_Tumor_Detector.ipynb][![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T8QWGy9V8gpll-veGo_W9fMPVrvZB2dv?usp=sharing) (training time will be determined by your hardware capacity).
 
 ## How to use the models
 
