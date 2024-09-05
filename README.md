@@ -31,9 +31,7 @@ In order to run one of the models please follow these steps:
 
 ```
 git clone https://github.com/nimradev064/Brain-Tumor-MRI.git```
-
-**2.** Within the folder of the repository just cloned, in the terminal run:
-
+```
 ```
 pip install -r requirements.txt
 ```
